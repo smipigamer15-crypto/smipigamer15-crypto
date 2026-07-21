@@ -8,7 +8,7 @@
 ##  About Me
 
 I build web products that are fast, scalable, and look premium.  
-With 3 years of experience in web development, I focus on clean code, Dockerized environments, and well-thought-out architecture.
+With 3 years of experience in web development, I focus on clean code, Docker environments, and well-thought-out architecture.
 
 I believe that great software starts with great structure.
 
