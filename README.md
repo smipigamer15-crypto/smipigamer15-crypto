@@ -243,16 +243,16 @@ Features:
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
- LinkedIn:
-https://www.linkedin.com/in/maksym-vlasiuk-938b01418/
+<a href="https://www.linkedin.com/in/maksym-vlasiuk-938b01418/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
- Email:
-smipigamer15@gmail.com
+<a href="mailto:smipigamer15@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
----
-
-> 🚀 Passionate about creating scalable web applications with Laravel, Docker and modern development practices.
->
-> Always learning, improving and building new projects.
+<a href="https://t.me/tycyka">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
