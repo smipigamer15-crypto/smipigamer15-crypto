@@ -206,24 +206,9 @@ Modern news platform with content management features.
 
 ---
 
-#  GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smipigamer15-crypto&show_icons=true&theme=github_dark&hide_border=true&border_radius=15" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smipigamer15-crypto&layout=compact&theme=github_dark&hide_border=true&border_radius=15" width="40%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smipigamer15-crypto&theme=github-dark-blue&hide_border=true&border_radius=15" width="55%" />
-
-</div>
-
 
 #  Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/maksym-vlasiuk-938b01418/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -236,3 +221,5 @@ Modern news platform with content management features.
 <a href="https://t.me/tycyka">
 <img src="https://img.shields.io/badge/Telegram-@tycyka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+
+</div>
