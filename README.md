@@ -1,8 +1,8 @@
-<p align="center">
+
     
 # Hi, I'm Maksym Vlasiuk 
 
-</p>
+
 
 ### Full-Stack Developer | Laravel | PHP | Docker
 
@@ -123,119 +123,86 @@ $me->build();
 
 #  Featured Projects
 
----
+<div align="center">
 
 ##  DarkCommerce Pro
 
 <a href="https://github.com/smipigamer15-crypto/darkcommerce-pro">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-**Premium dark-themed e-commerce platform built with Laravel 12.**
+<br>
 
-Features:
--  Product catalog and shopping cart
--  Stripe payment integration
--  Advanced admin dashboard
--  Authentication & authorization
--  Order management system
--  Product reviews and ratings
--  Discounts and coupons
--  Multi-language support
+Premium dark-themed e-commerce platform built with Laravel 12.
 
-**Tech Stack**
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP 8.4](https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-DC2626?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-7C3AED?style=for-the-badge)
-![DTO](https://img.shields.io/badge/DTO-EC4899?style=for-the-badge)
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white">
 
 ---
 
 ##  Celebrity Voting
 
 <a href="https://github.com/smipigamer15-crypto/celebrity-voting">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-**Celebrity ranking platform based on the ELO rating algorithm.**
+<br>
 
-Features:
--  Celebrity comparison battles
--  Dynamic ranking system
--  ELO rating calculations
--  User voting system
--  Ranking statistics
+Celebrity ranking platform powered by the ELO rating system.
 
-**Tech Stack**
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP 8.2](https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![ELO Algorithm](https://img.shields.io/badge/ELO_Algorithm-F59E0B?style=for-the-badge)
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ---
 
 ##  Lomio Blog
 
 <a href="https://github.com/smipigamer15-crypto/laravel-docker-blog">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-**Multi-user blog platform built with Laravel and Docker.**
+<br>
 
-Features:
--  Article management
--  User authentication
--  Categories and tags
--  Admin dashboard
--  Containerized development environment
+Multi-user blog platform running in a Docker environment.
 
-**Tech Stack**
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ---
 
 ##  News Portal
 
 <a href="https://github.com/smipigamer15-crypto/laravel-docker-news-portal">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-**Modern news platform with content management features.**
+<br>
 
-Features:
--  News publishing
--  Search system
--  Categories and tags
--  Comments
--  User management
+Modern news platform with content management features.
 
-**Tech Stack**
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+</div>
 
 ---
 
