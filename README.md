@@ -30,10 +30,10 @@ I believe that great software starts with great structure.
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [darkcommerce-pro](https://github.com/smipigamer15-crypto/darkcommerce-pro) | Premium dark-themed e-commerce platform with full cart & checkout flow | Laravel, Blade, Docker, MySQL |
-| [celebrity-voting](https://github.com/smipigamer15-crypto/celebrity-voting) | Celebrity ranking site with ELO rating system | Laravel, Livewire, Blade |
-| [laravel-docker-blog](https://github.com/smipigamer15-crypto/laravel-docker-blog) | Multi-user blog platform running inside Docker containers | Laravel, Docker, Nginx, MySQL |
-| [news-portal](https://github.com/smipigamer15-crypto/laravel-news-portal) | Full-featured news portal with categories, tags, and author system | Laravel, Blade, PostgreSQL, Redis |
+| [Darkcommerce](https://github.com/smipigamer15-crypto/darkcommerce-pro) | Premium dark-themed e-commerce platform with full cart & checkout flow | Laravel, Blade, Docker, MySQL |
+| [Celebrity Voting](https://github.com/smipigamer15-crypto/celebrity-voting) | Celebrity ranking site with ELO rating system | Laravel, Livewire, Blade |
+| [Lomio Blog](https://github.com/smipigamer15-crypto/laravel-docker-blog) | Multi-user blog platform running inside Docker containers | Laravel, Docker, Nginx, MySQL |
+| [News](https://github.com/smipigamer15-crypto/laravel-docker-news-portal) | Full-featured news portal with categories, tags, and author system | Laravel, Blade, PostgreSQL, Redis |
 
 ---
 
