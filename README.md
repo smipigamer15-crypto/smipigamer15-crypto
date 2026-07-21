@@ -1,4 +1,9 @@
+<div align="center">
 
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="anime banner" />
+
+<br/>
+</div>
     
 # Hi, I'm Maksym Vlasiuk 
 
