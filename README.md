@@ -62,7 +62,7 @@ $me->build();
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Languages
 
