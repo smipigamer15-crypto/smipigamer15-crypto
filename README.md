@@ -4,6 +4,7 @@
 
 <br/>
 </div>
+
 #  Witam!
     
 ## Nazywam się Maksym Vlasiuk i jestem Full-Stack Developerem specjalizującym się w PHP i Laravel
@@ -14,28 +15,32 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ## Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## DevOps
@@ -48,22 +53,31 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-2563EB?style=for-the-badge)
 ![Authorization](https://img.shields.io/badge/Authorization-1D4ED8?style=for-the-badge)
+![2FA](https://img.shields.io/badge/2FA-16A34A?style=for-the-badge&logo=authy&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C4043?style=for-the-badge&logo=oauth&logoColor=white)
 
 ![Admin Panel](https://img.shields.io/badge/Admin_Panel-16A34A?style=for-the-badge)
 ![CMS](https://img.shields.io/badge/CMS-0EA5E9?style=for-the-badge)
 ![RBAC](https://img.shields.io/badge/RBAC-F59E0B?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-DC2626?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-F97316?style=for-the-badge)
+![Vulnerability Scanner](https://img.shields.io/badge/Vulnerability_Scan-7C3AED?style=for-the-badge)
 
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-7C3AED?style=for-the-badge)
 ![Service Layer](https://img.shields.io/badge/Service_Layer-9333EA?style=for-the-badge)
 ![DTO](https://img.shields.io/badge/DTO-EC4899?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-DC2626?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-0EA5E9?style=for-the-badge)
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
@@ -77,10 +91,6 @@
 
 <a href="mailto:smipigamer15@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://t.me/tycyka">
-<img src="https://img.shields.io/badge/Telegram-@tycyka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 </div>
