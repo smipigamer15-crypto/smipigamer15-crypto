@@ -15,55 +15,7 @@
 
 #  About Me
 
-```php
-<?php
-
-class Developer
-{
-    public readonly string $name;
-    public readonly string $location;
-    public readonly array $languages;
-    public readonly array $focus;
-    public readonly array $projects;
-
-    public function __construct()
-    {
-        $this->name = 'Maksym Vlasiuk';
-        $this->location = 'Poland 🇵🇱';
-
-        $this->languages = [
-            'PHP',
-            'JavaScript',
-            'TypeScript'
-            'CSS3'
-            'HTML5'
-        ];
-
-        $this->focus = [
-            'Laravel',
-            'Full-Stack Development',
-            'Docker',
-            'Clean Code',
-            'Web Development'
-        ];
-
-        $this->projects = [
-            'DarkCommerce' => 'Premium e-commerce platform',
-            'Celebrity Voting' => 'ELO rating system platform',
-            'Lomio Blog' => 'Dockerized blog platform',
-            'News Portal' => 'Modern news system'
-        ];
-    }
-
-    public function build(): void
-    {
-        echo "Building scalable web applications with Laravel & Docker 🚀";
-    }
-}
-
-$me = new Developer();
-$me->build();
-```
+soon
 
 ---
 
