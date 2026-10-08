@@ -4,20 +4,9 @@
 
 <br/>
 </div>
+# Witam!
     
-# Hi, I'm Maksym Vlasiuk 
-
-
-
-### Full-Stack Developer | Laravel | PHP | Docker
-
----
-
-#  About Me
-
-soon
-
----
+## Nazywam się Maksym Vlasiuk i jestem Full-Stack Developerem specjalizującym się w PHP i Laravel
 
 #  Tech Stack
 
